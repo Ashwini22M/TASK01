@@ -17,5 +17,5 @@ This project is a part of my internship. It is a basic webpage built using *HTML
 ## Author
 
 *Ashwini Mishra*  
-Email:  as120409.kumarashwinimishra@gmail.com 
+Email:  as120409.kumarashwinimishra@gmail.com
 Location:Motihari college of engineering Motihari, Bihar
